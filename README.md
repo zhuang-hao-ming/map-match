@@ -9,6 +9,9 @@ So it's more flexible.
 However, the format of the road network data and the raw gps trajectory must be the same as those in the shp/input folder.
 
 You should hardly use it immediately, but you can adapt it to use.
+## usage
+
+python get_od_path.py
 
 ## result
 
